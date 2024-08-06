@@ -23,7 +23,7 @@ To run the Chat Room clone locally, follow these steps:
 
 1. Clone the repository:
 
-2. Open the "index.html" file in your preferred web browser.
+2. Open the "base.html" file in your preferred web browser.
 
 3. Start chatting! Open the same URL in multiple tabs to simulate multiple users and see real-time messaging in action.
 
