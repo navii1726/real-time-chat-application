@@ -4,7 +4,7 @@ This is a simple Chat Room clone web application built by Jatin Verma. It allows
 
 ## Live Demo
 
-You can access the live demo of the Chat Room clone at [https://jatin009v.github.io/Chat-Room-clone](https://jatin009v.github.io/Chat-Room-clone)
+You can access the live demo of the Chat Room clone at [https://navii1726.github.io/Chat-Room-clone](https://navii1726.github.io/Chat-Room-clone)
 
 ## Features
 
